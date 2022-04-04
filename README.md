@@ -5,7 +5,8 @@
 
 # Datasets
 
-
+1. 对于比如GLUE数据集，一般都有几个子数据集，这些子数据集被叫做configurations
+2. 
 
 
 
